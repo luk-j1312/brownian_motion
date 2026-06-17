@@ -1,0 +1,17 @@
+# Compiled Java bytecode
+*.class
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+out/
+
+# Compiled JAR output
+*.jar
+
+# OS files
+.DS_Store
+Thumbs.db
+# Project exclude paths
+/.lift/

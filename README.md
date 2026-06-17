@@ -21,9 +21,8 @@ Detected particles are then matched between frames to measure displacement over 
 
 ## Concepts Used
 - Image processing and thresholding  
-- Connected-component analysis  
+- Connected-components  
 - Particle tracking  
-- Statistical modeling  
 - Diffusion physics  
 - Scientific computing  
 
